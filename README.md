@@ -20,7 +20,6 @@ Selection Sort
 Insertion Sort
 Merge Sort
 Quick Sort
-Heap Sort
 
 Each algorithm shows how elements are compared and rearranged during sorting.
 
